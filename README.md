@@ -5,7 +5,12 @@
  - OS
  - Computer Architecture
  - Networking
- - Compilers 
+ - Compilers
+
+ (And am also a curious tourist in the following): 
+
+ - Distributed Systems
+ - Security 
   
  Previously, I've worked at the following companies:   
  
