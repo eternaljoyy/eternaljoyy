@@ -12,11 +12,6 @@
  - Distributed Systems
  - Security 
   
- Previously, I've worked at the following companies:   
- 
-- PointClickCare (Backend Development)
-- Phreesia (Backend Development)
-- University of Ottawa (Frontend Devlopment)
 
 Currently I'm working on some cool things, which include: 
  
