@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm a Software Developer, currently working at the University of British Columbia's Faculty of Medicine, with a deep interest in:
+ I'm a Software Developer, with a deep interest in:
  
  - OS
  - Computer Architecture
